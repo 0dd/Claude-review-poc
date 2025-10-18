@@ -20,5 +20,5 @@ jobs:
         with:
           comment-pr: true
           claude-api-key: ${{ secrets.ANTHROPIC_API_KEY }}
-          # claude-model: claude-3-5-haiku-20241022
-          claude-model: claude-3-5-sonnet-20240620
+          claude-model: claude-3-5-haiku-20241022
+          # claude-model: claude-3-5-sonnet-20240620
