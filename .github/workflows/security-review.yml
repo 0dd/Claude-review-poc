@@ -22,5 +22,6 @@ jobs:
           claude-api-key: ${{ secrets.ANTHROPIC_API_KEY }}
           # claude-model: claude-3-haiku-20240307
           # claude-model: claude-3-5-haiku-20241022
-          claude-model: claude-haiku-4-5-20251001
+          # claude-model: claude-haiku-4-5-20251001
           # claude-model: claude-3-5-sonnet-20240620
+          claude-model: claude-3-7-sonnet-20250219
